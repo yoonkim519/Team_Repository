@@ -1,0 +1,37 @@
+body {
+	background-image: "polar-bear-climate-change-story-1200_78250_990x742.jpg" ;
+	}
+
+a:link {
+    text-decoration: none;
+}
+img {
+      margin-left: 160px;
+}
+
+h1
+    {
+      font-size: 70px;
+      color: white;
+      font-family: futura;
+       
+    }
+
+.about {
+	margin-left: 230px;
+	float: left;
+	margin-top: 50px;
+}
+    
+
+.initiatives {
+	float: left;
+	margin-left: 70px;
+	margin-top: 50px;
+
+}
+.donate {
+	float: left;
+	margin-left: 70px;	
+	margin-top: 50px;
+}
