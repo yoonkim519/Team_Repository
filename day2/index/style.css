@@ -1,0 +1,31 @@
+h1{
+color: aliceblue ;
+position: relative;
+left: 30px;
+
+}
+
+h2{
+	color: lightyellow ;
+	position: relative;
+left: 30px;
+
+}
+
+
+
+body{
+	padding: 0;
+	margin: 0;
+	background-image: url("images/10072-19453-1-PB.jpg");
+}
+
+a {
+
+color:pink;
+size: 7px;
+position: relative;
+left: 670px;
+top: 500px;
+
+}

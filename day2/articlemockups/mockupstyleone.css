@@ -1,0 +1,25 @@
+h2{
+padding: 10px;
+border: 10px solid none;
+margin-left: 50px;
+margin-bottom: 30px ;
+margin-top: 30px;
+}
+
+.littleblocks{
+width: 200px;
+padding: 5px;
+border: 0px solid none;
+margin-left: 50px;
+margin-bottom: 5px ;
+margin-top: 5px;
+}
+
+#columnone{
+float: left;
+}
+
+#columntwo{
+float: left;
+}
+

@@ -1,0 +1,36 @@
+#pink{
+	
+	
+	background-color: pink;
+	
+}
+
+.green{
+	color:green;
+	
+
+
+}
+
+.red{
+	color:red;
+}
+
+.blue{
+
+color:blue;
+	
+}
+
+#lightgreen{
+background-color: lightgreen;
+}
+
+#lightblue{
+background-color: lightblue;
+
+}
+
+li{
+	display:inline-block;
+}

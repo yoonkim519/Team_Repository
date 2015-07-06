@@ -1,0 +1,50 @@
+h1{
+	font: times;
+	color: seashell;
+	background-color: seashell;
+	padding:5px;
+	border: 5px solid seashell;
+	margin: 25px;
+
+}
+#firstcolumn{
+	font: times;
+	color:seashell;
+	background-color: none;
+	text-align: left;
+	float:left;
+	width: 300px;
+	margin-left: 25px;
+	border: 2px solid seashell;
+	padding:10px;
+}
+
+#secondcolumn{
+	font: times;
+	color:seashell;
+	background-color: none;
+	text-align: left;
+	float:left;
+	width:300px;
+	margin-left: 25px;
+	border: 2px solid red;
+	padding:10px;
+}
+
+#thirdcolumn{
+	font: times;
+	color:seashell;
+	background-color: none;
+	text-align: left;
+	float:left;
+	width:300px;
+	margin-left: 25px;
+	/*margin-top: 25px;*/
+	border: 2px solid seashell;
+	padding:10px;
+}
+
+#wrapper{
+	width:900px;
+
+}

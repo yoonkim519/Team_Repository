@@ -1,0 +1,32 @@
+h1{
+color: aliceblue ;
+position: relative;
+left: 30px;
+
+}
+
+h2{
+	color: lightyellow ;
+	position: relative;
+left: 30px;
+
+}
+
+
+
+body{
+	padding: 0;
+	margin: 0;
+	background-image: url("pugprojectimages/kewgardens.jpg");
+	background-size: 1000px;
+}
+
+a {
+
+color:magenta;
+size: 7px;
+position: relative;
+left: 800px;
+top: 460px;
+
+}
