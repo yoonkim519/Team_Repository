@@ -1,0 +1,29 @@
+h1 {
+	
+	color: red;
+	background-color: lavender;
+	text-align: center;
+	font-family: "Times New Roman", serif;
+	font-size: 55px;
+}
+
+h6{
+	text-align: center;
+	
+
+
+}
+
+body{
+	padding: 0;
+	margin: 0;
+	background-image: url("images/redgalaxy.jpg");
+}
+
+a {
+
+color:pink;
+	
+}
+
+

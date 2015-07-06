@@ -1,0 +1,83 @@
+
+
+#wrapper{
+	width:900px;
+
+}
+
+#socialmediabar{
+	display: inline;
+	position:fixed;
+	width: 100px;
+
+}
+
+#clickme{
+	color:red;
+	position:relative;
+	right: 500px;
+	top:300px;
+}
+
+
+
+body{
+
+background-color: white;
+	
+}
+.container{
+
+	
+	position:relative;
+	right: 9px;
+	
+
+
+
+}
+
+.nav{
+	color: white;
+	font:times;
+	display: inline-block;
+	margin-left: 30px;
+	
+	
+}
+
+#about{
+	color: grey;
+	font:times;
+	font-size: 18pt;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+
+#initiatives{
+	color: grey;
+	font:times;
+	font-size: 18pt;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+
+#donate{
+	color: yellowgreen;
+	font:times;
+	font-size: 18pt;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+
+footer{
+	height: 2in;
+	position: relative;
+	background-color: black;
+	color:white;
+	font:times;
+}
+
